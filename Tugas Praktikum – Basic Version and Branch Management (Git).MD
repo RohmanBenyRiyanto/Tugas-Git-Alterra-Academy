@@ -4,7 +4,7 @@
 |--|--|
 | Rohman Beny Riyanto  |  Flutter A
 
-## 1. Buat Sebuah Repository GIthub :
+## 1. Buat Sebuah Repository GIthub 
 
 > Create Repositories
 
