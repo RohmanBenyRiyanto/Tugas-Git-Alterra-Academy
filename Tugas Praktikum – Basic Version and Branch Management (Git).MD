@@ -1,5 +1,9 @@
 # Tugas Praktikum – Basic Version and Branch Management (Git)
 
+| NAMA |  KELAS
+|--|--|
+| Rohman Beny Riyanto  |  Flutter A
+
 ## 1. Buat Sebuah Repository GIthub :
 
 > Create Repositories
