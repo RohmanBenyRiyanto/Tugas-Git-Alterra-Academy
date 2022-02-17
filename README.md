@@ -14,3 +14,4 @@
 ### Introduction Mobile App Development
 
 1. Tugas Praktikum – Introduction Mobile App Development [here](https://docs.google.com/document/d/1lhwZUM0uD1EFdQtjcFFrmRzTGgyfMTzM0RdtCG96uV4/edit?usp=sharing)
+2. Resume Materi - Introduction Mobile App Development [here](https://docs.google.com/document/d/1K-NetVLDn3cmHUdAuwu6Rcv81mL4aId50il-3hKfMeQ/edit?usp=sharing)
