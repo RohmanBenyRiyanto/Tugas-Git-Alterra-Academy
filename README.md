@@ -4,6 +4,9 @@
 |--|--|
 | Rohman Beny Riyanto  |  Flutter A
 
+## Tugas Season 1
+Quiz pada google form
+
 ## Tugas Season 2
 ### Basic Version and Branch Management (Git)
 
