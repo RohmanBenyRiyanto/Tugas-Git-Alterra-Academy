@@ -10,10 +10,6 @@ Tuliskan 3 poin yang dipelajari dari materi tersebut. Resume / ringkasan materi 
 
 ## Hasil Resume
 
-#### Apa itu Git?
-> Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
-</details>
-
 ### 1. Fundamental
 
 #### Apa itu Versioning?
